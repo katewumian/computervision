@@ -1,6 +1,8 @@
 # FaceMorphing
 
-## Use matplotlib.pyplot.ginput to manually select feature points or scipy.spatial.Delaunay, dlib.shape_predictor, and shape_predictor_68_face_landmarks.dat model to detect features automatically, make correspondences between according points, and then warp faces.
+## About
+
+## morph one face to another using matplotlib.pyplot.Delaunay, dlib.shape_predictor, and shape_predictor_68_face_landmarks.dat model to detect features automatically or manually and morph faces.
 
 ## Direction:
 
