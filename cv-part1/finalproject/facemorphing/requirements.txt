@@ -1,0 +1,6 @@
+numpy==1.18.0
+scipy==1.5.2
+imageio==2.9.0
+matplotlib==3.3.2
+dlib==19.7.0
+opencv-python==4.4.0.44
